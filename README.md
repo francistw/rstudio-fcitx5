@@ -1,2 +1,3 @@
 # fcitx5-rstudio
-在 Rstudio 中調用 fcitx5 輸入框架
+
+僅在 Archlinux，使用 `rstudio-desktop-bin` 測試，將 `libfcitx5platforminputcontextplugin.so` 放至 `/usr/lib/rstudio/plugins/platforminputcontexts/` 目錄中，再重啟 Rstudio 即可。
