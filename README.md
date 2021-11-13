@@ -1,3 +1,3 @@
 # fcitx5-rstudio
 
-僅在 Archlinux、使用 `rstudio-desktop-bin` 測試。
+Only tested in Archlinux with `rstudio-desktop-bin`.
