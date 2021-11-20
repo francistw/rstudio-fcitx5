@@ -4,7 +4,8 @@
 
 ## Manual Installation
 
-Put `libfcitx5platforminputcontextplugin.so` to `/usr/lib/rstudio/plugins/platforminputcontexts/`and restart RStudio.
+Put `libfcitx5platforminputcontextplugin.so` to `/usr/lib/rstudio/plugins/platforminputcontexts/`, `
+libFcitx5Qt5DBusAddons.so.1` to `/usr/lib/rstudio/plugins/dbusaddons` and restart RStudio.
 
 Only tested in Archlinux with [rstudio-desktop-bin](https://aur.archlinux.org/packages/rstudio-desktop-bin/).
 
